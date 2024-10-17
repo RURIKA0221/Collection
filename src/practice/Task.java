@@ -14,10 +14,10 @@ public class Task {
 	}
 
 	public LocalDate getDate() {
-		return date;
+		return this.date;
 	}
 
 	public String getContent() {
-		return content;
+		return this.content;
 	}
 }
